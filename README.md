@@ -1,3 +1,6 @@
 # trystegpy
 Steganography w/ python
-Usage:\n [encode] [inputfile] [targetfile] [message]\n [decode] [inputfile]
+
+Usage:
+[encode] [inputfile] [targetfile] [message]
+[decode] [inputfile]
